@@ -54,7 +54,7 @@ namespace DelimitedFileParsing.Models
         {
             var fcount = FieldCount();
             if (parsedStrings?.Length != fcount)
-                throw new ArgumentException(nameof(parsedStrings), $"Parsed string count {parsedStrings?.Length} match property count: {fcount}");
+                throw new ArgumentException(nameof(parsedStrings), $"Parsed string count {parsedStrings?.Length} must match property count: {fcount}");
 
             FileDesignation = parsedStrings[0];
             FullName = parsedStrings[1];
@@ -85,7 +85,7 @@ namespace DelimitedFileParsing.Models
         {
             var fcount = FieldCount();
             if (parsedStrings?.Length != fcount)
-                throw new ArgumentException(nameof(parsedStrings), $"Parsed string count {parsedStrings?.Length} match property count: {fcount}");
+                throw new ArgumentException(nameof(parsedStrings), $"Parsed string count {parsedStrings?.Length} must match property count: {fcount}");
 
 
             FileDesignation = parsedStrings[0];
