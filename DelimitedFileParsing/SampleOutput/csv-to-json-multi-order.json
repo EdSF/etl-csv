@@ -224,8 +224,8 @@
   ],
   "eof": {
     "fileDesignation": "E",
-    "totalNumberOfOrders": 1,
-    "totalOrderLineItems": 2,
-    "totalNumberOfLinesInFile": 9
+    "totalNumberOfOrders": 2,
+    "totalOrderLineItems": 4,
+    "totalNumberOfLinesInFile": 16
   }
 }
