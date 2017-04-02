@@ -1,0 +1,122 @@
+{
+  "fileDesignation": "F",
+  "batchDate": "08/04/2016",
+  "sortOrder": "By Batch #",
+  "orders": [
+    {
+      "fileDesignation": "H",
+      "orderStatus": "S",
+      "orderDate": "08/04/2016",
+      "orderNumber": "ONF002793300",
+      "orderShipDate": "08/04/2016",
+      "shipBatch": "080427bd1",
+      "salesPerson": "",
+      "salesGroupId": "ONF",
+      "orderNotes": "",
+      "billingInfo": {
+        "fileDesignation": "B",
+        "fullName": "Brett Nagy",
+        "addressLine1": "5825 221st Place S.E.",
+        "addressLine2": "Suite 205",
+        "city": "Issaquah",
+        "stateOrProvince": "WA",
+        "postalCode": "98027",
+        "addressLine3": "",
+        "country": "UNITED STATES",
+        "telephoneNumber": "(425) 392-7432",
+        "telephoneExtension": "",
+        "emailAddress": "example@microgroove.com",
+        "emailVerified": "??",
+        "customerPaymentMethodId": "0000",
+        "addressVerified": "",
+        "customerGroup": "",
+        "addressNotes": ""
+      },
+      "shippingInfo": {
+        "fileDesignation": "S",
+        "fullName": "Brett Nagy",
+        "addressLine1": "5825 221st Place S.E.",
+        "addressLine2": "Suite 205",
+        "city": "Issaquah",
+        "stateOrProvince": "WA",
+        "postalCode": "98027",
+        "addressLine3": "",
+        "country": "UNITED STATES",
+        "telephoneNumber": "(425) 392-7432",
+        "addressNotes": ""
+      },
+      "orderMessage": {
+        "fileDesignation": "M",
+        "messageStatus": "S",
+        "messageText": "Thank you for purchasing from our storefront."
+      },
+      "orderLineItems": [
+        {
+          "fileDesignation": "L",
+          "productId": "602527788265",
+          "lineSequence": "02",
+          "sku": "ISLB001604302.2",
+          "qtyOrdered": 1,
+          "quantityShipped": 1,
+          "itemLength": 0,
+          "itemWidth": 0,
+          "itemHeight": 0,
+          "unitPrice": 2039,
+          "extendedPrice": 2039,
+          "alternateProductId": "602527788265",
+          "warehousCode": "15955753",
+          "discountAmount": 0,
+          "promotionalAmount": 0
+        },
+        {
+          "fileDesignation": "L",
+          "productId": "602517642850",
+          "lineSequence": "01",
+          "sku": "ISLB001095001.1",
+          "qtyOrdered": 2,
+          "quantityShipped": 2,
+          "itemLength": 0,
+          "itemWidth": 0,
+          "itemHeight": 0,
+          "unitPrice": 1898,
+          "extendedPrice": 3796,
+          "alternateProductId": "602517642850",
+          "warehousCode": "13486891",
+          "discountAmount": 0,
+          "promotionalAmount": 0
+        }
+      ],
+      "transactionData": {
+        "fileDesignation": "T",
+        "totalQuantityOrdered": 3,
+        "totalQuantityShipped": 3,
+        "totalbackorderQuantity": 0,
+        "totalnumberOfPackages": 2,
+        "totalQuantityReturned": 0,
+        "totalDiscountAmount": 0,
+        "totalPromotionalAmount": 0,
+        "storeCreditAmount": 0,
+        "totalAdjustmentsAmount": 0,
+        "authorizationCode": "08890049",
+        "transactionId": "PLS07414521",
+        "shippingCarrierCode": "050",
+        "shippingCarrierTrackingNumber": "124545454545454545454",
+        "shippingClass": 0,
+        "shipDate": "08/04/2016",
+        "deliveryInstructions": "",
+        "transactionNotes": "",
+        "transactionSubTotal": 5835,
+        "transactionSalesTax": 0,
+        "transactionCustomsDuties": 0,
+        "transactionShippingCost": 1385,
+        "transactionGrandTotal": 7220
+      }
+    }
+  ],
+  "eof": {
+    "fileDesignation": "E",
+    "totalNumberOfOrders": 1,
+    "totalOrderLineItems": 2,
+    "totalNumberOfLinesInFile": 9
+  }
+}
