@@ -28,6 +28,11 @@
 "E","1","2","9"
 ````
 
+#### Sample Output Files
+
+- Original `File` record containing 1 `Order` :[csv-to-json-single-order.json](https://github.com/EdSF/etl-csv/blob/master/DelimitedFileParsing/SampleOutput/csv-to-json-single-order.json)
+- `File` record containing 2 `Orders`: [csv-to-json-multi-order.json](https://github.com/EdSF/etl-csv/blob/master/DelimitedFileParsing/SampleOutput/csv-to-json-multi-order.json)
+
 #### Dependencies
 
 - JSON.Net
